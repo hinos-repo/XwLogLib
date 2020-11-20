@@ -13,6 +13,9 @@
 ### Support Function
 
 ```XwLog.d(TAG, strMessage)```
+
 ```XwLog.e(TAG, strMessage)```
+
 ```XwLog.v(TAG, strMessage)```
+
 ```XwLog.w((TAG, strMessage)```
