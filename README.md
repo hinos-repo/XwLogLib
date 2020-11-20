@@ -22,11 +22,18 @@
 
 
 ### Settings
-```allprojects {
+
+build.gradle(project)
+```
+allprojects {
     repositories {
         ....
         maven { url 'https://jitpack.io' }
     }
 }
+```
 
-implementation 'com.github.hinos-repo:XwLogLib:1.0```
+build.gradle(Module: app)
+```
+implementation 'com.github.hinos-repo:XwLogLib:1.0
+```
