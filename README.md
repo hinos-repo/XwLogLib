@@ -27,6 +27,6 @@
         ....
         maven { url 'https://jitpack.io' }
     }
-}```
+}
 
-```implementation 'com.github.hinos-repo:XwLogLib:1.0```
+implementation 'com.github.hinos-repo:XwLogLib:1.0```
