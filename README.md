@@ -8,7 +8,7 @@
 
 1. 로그 디렉토리, 로그 파일 이름을 지정할 수 있습니다.
 2. useFileLog ? "파일로그 사용" : "android.util.Log 사용"
-3. Request Permission은 내부에서 요청합니다.
+3. Request Permission은 라이브러리 내부에서 요청합니다.
 
 ### Support Function
 
