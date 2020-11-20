@@ -19,3 +19,14 @@
 ```XwLog.v(TAG, strMessage)```
 
 ```XwLog.w((TAG, strMessage)```
+
+
+### Settings
+```allprojects {
+    repositories {
+        ....
+        maven { url 'https://jitpack.io' }
+    }
+}```
+
+```implementation 'com.github.hinos-repo:XwLogLib:1.0```
